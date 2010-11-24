@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>J</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>javaBin</string>
+				<key>url</key>
+				<string>http://java.no</string>
+				<key>imageurl</key>
+				<string>http://png-images.findicons.com/files/icons/1007/crystal_like/128/java.png</string>
+			</dict>
+		</array>
+		<key>S</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>scalaBin</string>
+				<key>url</key>
+				<string>http://scala.java.no</string>
+				<key>imageurl</key>
+				<string>http://i.friendfeed.com/p-8fca4f8780bf4549b879bea6bc873bbd-medium-2</string>
+			</dict>
+		</array>
+		<key>A</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Agile in Offshore</string>
+				<key>url</key>
+				<string>http://www.meetup.com/Agile-in-Offshore/</string>
+				<key>imageurl</key>
+				<string>http://www.brr.com.au/uploads/assets/images/presenters/50/c84682-miclyn-express-offshore-limited-.jpg</string>
+			</dict>
+		</array>
+	</dict>
+</plist>

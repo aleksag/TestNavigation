@@ -1,0 +1,400 @@
+TTestNavigation
+v7
+r0
+t312214546.976863
+cCheck dependencies
+cProcessInfoPlistFile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Info.plist TestNavigation-Info.plist
+cCompileXIB /Users/alex/Documents/dev/iOS/TestNavigation/MainWindow.xib
+cCompileXIB /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.xib
+cCompileXIB /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.xib
+cCopyPlistFile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Communities.plist Communities.plist
+cProcessPCH /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch.gch TestNavigation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/main.o /Users/alex/Documents/dev/iOS/TestNavigation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/TestNavigationAppDelegate.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/TestNavigationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesViewController.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityDetailView.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityModel.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesTableViewController.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation normal i386
+cGenerateDSYMFile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app.dSYM /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation
+cTouch /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.h
+c000000004CEBC08B0000000000000198
+t1290518667
+s408
+i<UIKit/UIKit.h>
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m
+c000000004CEBCC8F0000000000001A2D
+t1290521743
+s6701
+i"CommunitiesTableViewController.h"
+i"CommunityDetailView.h"
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.h
+c000000004CEBB9A3000000000000015D
+t1290516899
+s349
+i<UIKit/UIKit.h>
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m
+c000000004CEBCAFA00000000000008B6
+t1290521338
+s2230
+i"CommunitiesViewController.h"
+i"CommunityDetailView.h"
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.xib
+c000000004CEBBA5100000000000060A0
+t1290517073
+s24736
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.h
+c000000004CEBCC6B0000000000000190
+t1290521707
+s400
+i<UIKit/UIKit.h>
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.m
+c000000004CEBCC2A00000000000006AD
+t1290521642
+s1709
+i"CommunityDetailView.h"
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.xib
+c000000004CEBCB5F0000000000006056
+t1290521439
+s24662
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityModel.h
+c000000004CEBB464000000000000015B
+t1290515556
+s347
+i<Foundation/Foundation.h>
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityModel.m
+c000000004CEBB47B00000000000000F6
+t1290515579
+s246
+i"CommunityModel.h"
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/TestNavigationAppDelegate.h
+c000000004CEBAB530000000000000157
+t1290513235
+s343
+i<UIKit/UIKit.h>
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Classes/TestNavigationAppDelegate.m
+c000000004CEBC0380000000000000B09
+t1290518584
+s2825
+i"TestNavigationAppDelegate.h"
+i"CommunitiesTableViewController.h"
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/Communities.plist
+c000000004CEBC7A700000000000002CC
+t1290520487
+s716
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/MainWindow.xib
+c000000004CEBAB53000000000000212B
+t1290513235
+s8491
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/TestNavigation_Prefix.pch
+c000000004CEBAB5300000000000000C5
+t1290513235
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app
+t1290521746
+s306
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app.dSYM
+t1290521746
+s102
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Communities.plist
+t1290521745
+s219
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/CommunitiesViewController.nib
+t1290521745
+s3489
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/CommunityDetailView.nib
+t1290521745
+s3552
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Info.plist
+t1290521744
+s619
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/MainWindow.nib
+t1290521745
+s1538
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/PkgInfo
+t1290521744
+s8
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation
+t1290521746
+s28552
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesTableViewController.o
+t1290521746
+s48000
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesViewController.o
+t1290521746
+s39668
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityDetailView.o
+t1290521746
+s42428
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityModel.o
+t1290521746
+s8108
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/TestNavigation.LinkFileList
+c000000004CEBCC9000000000000003B1
+t1290521744
+s945
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/TestNavigationAppDelegate.o
+t1290521746
+s49960
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/main.o
+t1290521746
+s6316
+
+N/Users/alex/Documents/dev/iOS/TestNavigation/main.m
+c000000004CEBAB53000000000000016B
+t1290513235
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch.gch
+t1290521746
+s15211536
+
+NTestNavigation-Info.plist
+c000000004CEBAB53000000000000038D
+t1290513235
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312214544#312214544#0(0"0(0#1#0"8610093760#0"0#
+
+CCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesTableViewController.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312214546.809386
+e312214546.913284
+r1
+xCompileC
+xbuild/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesTableViewController.o
+x/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m: In function '-[CommunitiesTableViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m:190: warning: 'UILabel' may not respond to '-:'
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m:190: warning: (Messages without a matching method signature
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m:190: warning: will be assumed to return 'id' and accept
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m:190: warning: '...' as arguments.)
+lSLF07#2@93"Compile /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m312214546#312214546#0(714"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m: In function '-[CommunitiesTableViewController tableView:didSelectRowAtIndexPath:]':/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m:190: warning: 'UILabel' may not respond to '-:'/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m:190: warning: (Messages without a matching method signature/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m:190: warning: will be assumed to return 'id' and accept/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m:190: warning: '...' as arguments.)2(22@33"'UILabel' may not respond to '-:'312214546#171#134#0(6@85"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m312214543#190#0#190#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)312214546#305#146#0(6@85"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m312214543#190#0#190#0#0"0(0#0#85"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m8623452192#2180"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-generated-files.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-own-target-headers.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-all-target-headers.hmap -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-project-headers.hmap -F/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -I/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/include -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources/i386 -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources -include /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch -c /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesTableViewController.m -o /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesTableViewController.o0#
+
+CCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesViewController.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312214546.658380
+e312214546.756078
+r1
+xCompileC
+xbuild/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesViewController.o
+x/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m: In function '-[CommunitiesViewController viewDidLoad]':
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:29: warning: format not a string literal and no format arguments
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m: In function '-[CommunitiesViewController showDetailedView:]':
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:66: warning: 'UIButton' may not respond to '-setText:'
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:66: warning: (Messages without a matching method signature
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:66: warning: will be assumed to return 'id' and accept
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:66: warning: '...' as arguments.)
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m: At top level:
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:83: warning: property 'dataSource' requires method '-dataSource' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:83: warning: property 'dataSource' requires the method 'setDataSource:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@88"Compile /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m312214546#312214546#0(1504"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m: In function '-[CommunitiesViewController viewDidLoad]':/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:29: warning: format not a string literal and no format arguments/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m: In function '-[CommunitiesViewController showDetailedView:]':/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:66: warning: 'UIButton' may not respond to '-setText:'/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:66: warning: (Messages without a matching method signature/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:66: warning: will be assumed to return 'id' and accept/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:66: warning: '...' as arguments.)/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m: At top level:/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:83: warning: property 'dataSource' requires method '-dataSource' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m:83: warning: property 'dataSource' requires the method 'setDataSource:' to be defined - use @synthesize, @dynamic or provide a method implementation6(22@51"Format not a string literal and no format arguments312214546#138#146#0(6@80"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m312214138#29#0#29#0#51"format not a string literal and no format arguments0(22@41"'UIButton' may not respond to '-setText:'312214546#428#136#0(6@80"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m312214138#66#0#66#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)312214546#564#140#0(6@80"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m312214138#66#0#66#0#0"0(23@13"At top level:312214546#955#96#0(6@80"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m312214138#0#0#0#0#0"0(22@128"Property 'dataSource' requires method '-dataSource' to be defined - use @synthesize, @dynamic or provide a method implementation312214546#1051#223#0(6@80"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m312214138#83#0#83#0#0"0(22@135"Property 'dataSource' requires the method 'setDataSource:' to be defined - use @synthesize, @dynamic or provide a method implementation312214546#1274#230#0(6@80"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m312214138#83#0#83#0#0"0(0#0#80"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m8623704256#2170"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-generated-files.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-own-target-headers.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-all-target-headers.hmap -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-project-headers.hmap -F/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -I/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/include -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources/i386 -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources -include /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch -c /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.m -o /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunitiesViewController.o0#
+
+CCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityDetailView.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312214546.697120
+e312214546.809258
+r1
+xCompileC
+xbuild/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityDetailView.o
+x/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.m312214546#312214546#0(0"0(0#0#74"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.m8619606016#2158"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-generated-files.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-own-target-headers.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-all-target-headers.hmap -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-project-headers.hmap -F/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -I/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/include -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources/i386 -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources -include /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch -c /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.m -o /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityDetailView.o0#
+
+CCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityModel.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312214546.756193
+e312214546.826088
+r1
+xCompileC
+xbuild/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityModel.o
+x/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityModel.m312214546#312214546#0(0"0(0#0#69"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityModel.m8644251456#2148"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-generated-files.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-own-target-headers.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-all-target-headers.hmap -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-project-headers.hmap -F/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -I/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/include -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources/i386 -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources -include /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch -c /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityModel.m -o /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/CommunityModel.o0#
+
+CCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/TestNavigationAppDelegate.o /Users/alex/Documents/dev/iOS/TestNavigation/Classes/TestNavigationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312214546.595156
+e312214546.697008
+r1
+xCompileC
+xbuild/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/TestNavigationAppDelegate.o
+x/Users/alex/Documents/dev/iOS/TestNavigation/Classes/TestNavigationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/alex/Documents/dev/iOS/TestNavigation/Classes/TestNavigationAppDelegate.m312214546#312214546#0(0"0(0#0#80"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/TestNavigationAppDelegate.m8616600896#2170"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-generated-files.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-own-target-headers.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-all-target-headers.hmap -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-project-headers.hmap -F/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -I/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/include -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources/i386 -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources -include /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch -c /Users/alex/Documents/dev/iOS/TestNavigation/Classes/TestNavigationAppDelegate.m -o /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/TestNavigationAppDelegate.o0#
+
+CCompileC build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/main.o /Users/alex/Documents/dev/iOS/TestNavigation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312214546.593288
+e312214546.658258
+r1
+xCompileC
+xbuild/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/main.o
+x/Users/alex/Documents/dev/iOS/TestNavigation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/alex/Documents/dev/iOS/TestNavigation/main.m312214546#312214546#0(0"0(0#0#51"/Users/alex/Documents/dev/iOS/TestNavigation/main.m8620857248#2120"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-generated-files.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-own-target-headers.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-all-target-headers.hmap -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-project-headers.hmap -F/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -I/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/include -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources/i386 -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources -include /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch -c /Users/alex/Documents/dev/iOS/TestNavigation/main.m -o /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.xib
+s312214544.576295
+e312214545.278669
+r1
+xCompileXIB
+x/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.xib
+lSLF07#2@48"CompileXIB Classes/CommunitiesViewController.xib312214544#312214545#0(0"0(0#0#82"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.xib8643897760#633"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/CommunitiesViewController.nib /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunitiesViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.xib
+s312214545.086274
+e312214545.613376
+r1
+xCompileXIB
+x/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.xib
+lSLF07#2@42"CompileXIB Classes/CommunityDetailView.xib312214545#312214545#0(0"0(0#0#76"/Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.xib8620886560#621"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/CommunityDetailView.nib /Users/alex/Documents/dev/iOS/TestNavigation/Classes/CommunityDetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/alex/Documents/dev/iOS/TestNavigation/MainWindow.xib
+s312214544.575487
+e312214545.086160
+r1
+xCompileXIB
+x/Users/alex/Documents/dev/iOS/TestNavigation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib312214544#312214545#0(0"0(0#0#59"/Users/alex/Documents/dev/iOS/TestNavigation/MainWindow.xib8644172192#595"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/MainWindow.nib /Users/alex/Documents/dev/iOS/TestNavigation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCopyPlistFile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Communities.plist Communities.plist
+s312214545.278771
+e312214545.306940
+r1
+xCopyPlistFile
+x/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Communities.plist
+xCommunities.plist
+lSLF07#2@22"Copy Communities.plist312214545#312214545#0(0"0(0#0#62"/Users/alex/Documents/dev/iOS/TestNavigation/Communities.plist8644252576#411"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Communities.plist --outdir /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app0#
+
+CGenerateDSYMFile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app.dSYM /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation
+s312214546.949847
+e312214546.972985
+r1
+xGenerateDSYMFile
+x/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app.dSYM
+x/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/TestNavigation.app.dSYM build/Debug-iphonesimulator/TestNavigation.app/TestNavigation312214546#312214546#0(0"0(0#0#106"/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation8622524032#422"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation -o /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app.dSYM0#
+
+CLd /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation normal i386
+s312214546.913384
+e312214546.949717
+r1
+xLd
+x/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation
+xnormal
+xi386
+lSLF07#2@111"Link /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation312214546#312214546#0(0"0(0#0#0"8651980736#965"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -F/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -filelist /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/Objects-normal/i386/TestNavigation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/TestNavigation0#
+
+CProcessInfoPlistFile /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Info.plist TestNavigation-Info.plist
+s312214544.570243
+e312214544.575392
+r1
+xProcessInfoPlistFile
+x/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Info.plist
+xTestNavigation-Info.plist
+lSLF07#2@33"Process TestNavigation-Info.plist312214544#312214544#0(0"0(0#0#70"/Users/alex/Documents/dev/iOS/TestNavigation/TestNavigation-Info.plist8610865632#518"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestNavigation-Info.plist -genpkginfo /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app/Info.plist0#
+
+CProcessPCH /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch.gch TestNavigation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312214545.613513
+e312214546.593008
+r1
+xProcessPCH
+x/var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch.gch
+xTestNavigation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile TestNavigation_Prefix.pch312214545#312214546#0(0"0(0#0#70"/Users/alex/Documents/dev/iOS/TestNavigation/TestNavigation_Prefix.pch8620831424#1999"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-generated-files.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-own-target-headers.hmap -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-all-target-headers.hmap -iquote /Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/TestNavigation-project-headers.hmap -F/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator -I/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/include -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources/i386 -I/Users/alex/Documents/dev/iOS/TestNavigation/build/TestNavigation.build/Debug-iphonesimulator/TestNavigation.build/DerivedSources -c /Users/alex/Documents/dev/iOS/TestNavigation/TestNavigation_Prefix.pch -o /var/folders/+o/+ozaw9W8GVCQDPTvYdpOxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavigation_Prefix-emtvkturxfjbhxeajihgnpsidjbn/TestNavigation_Prefix.pch.gch0#
+
+CTouch /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app
+s312214546.973093
+e312214546.976823
+r1
+xTouch
+x/Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app
+lSLF07#2@97"Touch /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app312214546#312214546#0(0"0(0#0#0"8622135328#297"    cd /Users/alex/Documents/dev/iOS/TestNavigation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alex/Documents/dev/iOS/TestNavigation/build/Debug-iphonesimulator/TestNavigation.app0#
+
